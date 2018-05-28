@@ -1,6 +1,6 @@
 # neural network examples
 
-## A simple neural network simulates XOR gate
+### A simple neural network simulates XOR gate
 
 Run the command
 ```
@@ -8,7 +8,7 @@ xor_gate_simulate
 ```
 under matlab.
 
-## A simple convolutional network to detect MNIST dataset
+### A simple convolutional network to detect MNIST dataset
 Download the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) first.
 
 Run the command
