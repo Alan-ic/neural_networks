@@ -26,4 +26,3 @@ under matlab to test the trained convolutional network.
 ### credit
 loadMNISTImages.m and loadMNISTLabels.m are from https://github.com/amaas/stanford_dl_ex .
 The convolutional network codes from the book matlab deep learning written by Phil Kim, with slight modification.
-
