@@ -1,4 +1,4 @@
-#neural network examples
+# neural network examples
 
 ## A simple neural network simulates XOR gate
 
